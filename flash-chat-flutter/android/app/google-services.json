@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138367761937",
+    "project_id": "flash-chat-a813a",
+    "storage_bucket": "flash-chat-a813a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138367761937:android:bbef2825f29b99e2bdbbb0",
+        "android_client_info": {
+          "package_name": "co.anshul.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138367761937-lpn51k4jo5v4nvdjt4c8n3jrcc3d2i2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgoya_SE4kx03G9ks7yvsQsKWZahH8Uk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138367761937-lpn51k4jo5v4nvdjt4c8n3jrcc3d2i2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
